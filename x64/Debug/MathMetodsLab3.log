@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\timur\source\repos\MathMetodsLab3\main.cpp(9,22): error C2296: '^': not valid as left operand has type 'double'
